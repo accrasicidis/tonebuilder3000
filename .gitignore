@@ -1,0 +1,15 @@
+# Build output
+out/
+shareable-packs/
+tone3000-preset-builder.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Local files
+.DS_Store
+.claude/settings.local.json
+
+# Note: *.t3kpreset files are NOT ignored on purpose.
+# The bundled presets under skill/tone3000-preset-builder/presets/ ship with the repo.
